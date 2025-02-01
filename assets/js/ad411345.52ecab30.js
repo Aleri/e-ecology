@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunke_ecology=self.webpackChunke_ecology||[]).push([[1480],{5915:e=>{e.exports=JSON.parse('{"label":"hello","permalink":"/e-ecology/blog/tags/hello","allTagsPath":"/e-ecology/blog/tags","count":2,"unlisted":false}')}}]);

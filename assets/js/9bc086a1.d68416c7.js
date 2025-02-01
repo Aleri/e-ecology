@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunke_ecology=self.webpackChunke_ecology||[]).push([[9523],{1127:e=>{e.exports=JSON.parse('{"permalink":"/e-ecology/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
